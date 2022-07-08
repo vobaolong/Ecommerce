@@ -362,6 +362,7 @@ body {
     background-size: cover;
     background-position: center;
     padding: 30px;
+
 }
 
 #sm-banner .banner-box2 {
@@ -390,6 +391,7 @@ body {
 #sm-banner .banner-box:hover button {
     background: #20c9bd;
     border: 1px solid #20c9bd;
+    border-radius: 5px;
 }
 
 #banner3 {
